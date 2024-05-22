@@ -1,0 +1,12 @@
+# Update the packgaes as required
+# 'fastapi' package is needed for FastAPI server
+# 'psutil' is needed for logging CPU and Memory usage
+# 'uvicorn' package is required for ASGI service
+
+
+
+fastapi
+uvicorn
+requests
+psutil
+
