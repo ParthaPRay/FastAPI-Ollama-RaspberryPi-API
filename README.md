@@ -10,7 +10,7 @@ requests
 psutil
 ```
 
-# Sanic web server python code 'sanicserver.py'
+# Sanic web server python code 'fastapiserver.py'
 
 ```python
 
